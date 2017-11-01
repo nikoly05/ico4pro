@@ -1,0 +1,53 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ico4.pro" resolutions="1x" timestamp="1509503370640">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3939432312" ref="index"/>
+    <file name="index.css" crc="3825705209" ref="index"/>
+    <file name="iefonts_index.css" crc="4268609722" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="plexus.mp4" crc="3897107170" seo="true" mt="1442551056000"/>
+    <file name="plexus.webm" crc="36929172" seo="true" mt="1508992849000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="line_hillsready.svg" crc="4244258049" ref="index"/>
+    <file name="line_hillsready_poster_u786.png" crc="184046116" ref="index"/>
+    <file name="dot-line-down-green-u767-fr.png" crc="68600851" ref="index"/>
+    <file name="dot-line-down-green-u802-fr.png" crc="330891482" ref="index"/>
+    <file name="dot-line-down-green.png" crc="3785897707" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dot-line-up-green.png" crc="3783220661" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back_hill-image-down.png" crc="117991596" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dot-line-down.png" crc="3780286135" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="card-blue.svg" crc="7336508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="card-blue_poster_.png" crc="4135876369" ref="index"/>
+    <file name="card-red.svg" crc="4207532729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="card-red_poster_.png" crc="273968873" ref="index"/>
+    <file name="rounds bottoms empty.png" crc="3890479125" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mandala-mask-lines-1-base.svg" crc="3806554230" ref="index"/>
+    <file name="mandala-mask-lines-1-base_poster_u889.png" crc="4024375571" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4082763027" seo="true" mt="1509502340985" redirect="true"/>
+</manifest>
